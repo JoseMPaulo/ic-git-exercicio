@@ -1,0 +1,3 @@
+Aprendi a criar um repositório local,
+ um repositório remoto e fazer push, 
+a fazer alterações no repositório e a verificar o estado do mesmo.
